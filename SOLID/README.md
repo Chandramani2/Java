@@ -1,10 +1,6 @@
 # SOLID Principles in Java
 
 
-
-[Image of SOLID principles diagram]
-
-
 This repository demonstrates the **SOLID** design principles using Java. These principles, introduced by Robert C. Martin (Uncle Bob), are intended to make software designs more understandable, flexible, and maintainable.
 
 ## Table of Contents
